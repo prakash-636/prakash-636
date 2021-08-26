@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋   
 
 
 
@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-![Technical skills]
+
+### Technical Skils
+
 <img src="https://img.shields.io/badge/-JAVA-007396?logo=Java&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/--F09820?logo=C&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Prakash-636&count_private=true&show_icons=true&theme=radical)
